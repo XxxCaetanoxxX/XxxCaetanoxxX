@@ -26,6 +26,6 @@ Contato:
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() Email de contato: caetanocesar35@gmail.com
 
 ![XxxCaetanoxxX GitHub stats](https://github-readme-stats.vercel.app/api?username=XxxCaetanoxxX&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XxxCaetanoxxX&langs_count=8)](https://github.com/XxxCaetanoxxX/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XxxCaetanoxxX&layout=compact)](https://github.com/XxxCaetanoxxX/github-readme-stats)
 
 ### Sempre em busca de aprendizado e conhecimento! ###
