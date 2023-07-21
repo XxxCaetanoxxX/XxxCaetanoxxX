@@ -1,4 +1,4 @@
-Olá, meu nome é Caetano César, tenho 19 anos e estou no meu 3º período da faculdade de ciência da computação na Universidade UNA. 💙
+Olá, meu nome é Caetano César, tenho 19 anos e estou no meu 4º período da faculdade de ciência da computação na Universidade UNA. 💙
 
 Linguagens e tecnologias:
 
